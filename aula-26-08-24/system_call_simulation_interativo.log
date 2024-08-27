@@ -1,0 +1,12 @@
+2024-08-26 20:38:55 - Execução do script iniciada.
+2024-08-26 20:39:50 - Execução do script iniciada.
+2024-08-26 20:39:52 - Cliente (Usuário) solicitou operação: ler_arquivo
+2024-08-26 20:39:52 - Cliente é root. Pode interagir diretamente com o Kernel.
+2024-08-26 20:39:52 - Kernel recebendo solicitação: ler_arquivo
+2024-08-26 20:40:44 - Arquivo sensível solicitado para leitura: /home/kant-dev/aua-28-08-24/system_call_simulation_interativo.log
+2024-08-26 20:40:44 - Iniciando leitura do arquivo: /home/kant-dev/aua-28-08-24/system_call_simulation_interativo.log
+2024-08-26 20:40:44 - Erro: Permissão negada para leitura do arquivo /home/kant-dev/aua-28-08-24/system_call_simulation_interativo.log.
+2024-08-26 20:41:03 - Execução do script iniciada.
+2024-08-26 20:41:07 - Cliente (Usuário) solicitou operação: ler_arquivo
+2024-08-26 20:41:07 - Cliente é root. Pode interagir diretamente com o Kernel.
+2024-08-26 20:41:07 - Kernel recebendo solicitação: ler_arquivo

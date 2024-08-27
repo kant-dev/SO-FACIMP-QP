@@ -1,0 +1,115 @@
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7, [{events=EPOLLIN, data={u32=12, u64=140097538228236}}], 9, -1) = 1
+read(12, ".", 262144)                   = 1
+epoll_wait(7, [], 9, 0)                 = 0
+epoll_wait(7,  <detached ...>
